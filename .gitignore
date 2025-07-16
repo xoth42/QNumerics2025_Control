@@ -40,3 +40,6 @@ build/
 # VS code
 *.code-workspace
 .vscode/settings.json
+
+# Ignore 
+playground/
